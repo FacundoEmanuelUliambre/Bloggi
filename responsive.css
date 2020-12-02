@@ -1,0 +1,134 @@
+@media (max-width:1250px){
+    .wrap{
+        width: 90%;
+        margin: 0px auto;
+    }
+    #banner h1{
+        font-size: 35px;
+        text-align: center;
+        margin: 33px auto;
+    }
+    .card{
+        width: 17%;
+        margin: 1.32%;
+    }
+    .card p{
+        display: block;
+        margin: 0px auto;
+        text-align: center;
+        width: 90%;
+    }
+    #articulos{
+        width: 65%;
+
+    }
+    #articulos article{
+        width: 98%;
+    }
+    #footer .wrap >div{
+        width: 24%;
+    }
+    #footer h5{
+        font-size: 30px;
+    }
+}
+@media (max-width:1080px){
+    .card .category{
+        font-size: 17px;
+    }
+    .card .description{
+        font-size: 14px;
+    }
+    #articulos{
+        width: 62%;
+    }
+    #footer img{
+        max-width: 100%;
+    }
+
+
+}
+@media (max-width:995px){
+    #articulos{
+        width: 59%;
+    }
+    #footer h5{
+        font-size: 22px;
+    }
+    #footer .wrap >div{
+        width: 22%;
+    }
+    #footer img{
+        max-width: 100%;
+    }
+    #footer #browsers img{
+        width: 25px;
+    }
+
+}
+@media (max-width:922px){
+    #lateral{
+        width: 30%;
+    }
+    #lateral input[type="text"]{
+        width: 75%;
+    }
+    .box{
+        width: 90%;
+        height: auto;
+    }
+    #lateral input[type="submit"], #lateral input[type="reset"]{
+        width: 80px;
+    }
+    #login input[type="email"]
+    #login input[type="password"]{
+        width: 65%;
+        margin-left: 24%;
+    }
+    #banner h1 {
+        width: 100%;
+    }
+    #footer img{
+        max-width: 100%;
+    }
+    #footer #browsers img{
+        width: 22px;
+    }
+
+}
+@media (max-width:785px){
+    #banner h1{
+        font-size: 27px;
+    }
+    .card{
+        height: auto;
+    }
+    .card .description{
+        display: none;
+    }
+    #footer .wrap >div{
+        width: 20%;
+    }
+    #footer img{
+        max-width: 100%;
+    }
+}
+@media (max-width:725px){
+    #header{
+        width: 100%;
+        height: 120px;
+        padding-top: 10px;
+    }
+    #menu{
+        width: 75%;
+        clear: both;
+        float: none;
+        margin: 0% auto;
+    }
+    #logo{
+        float: none;
+        width: 200px;
+        margin: 0px auto;
+    }
+
+}
